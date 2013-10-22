@@ -4,18 +4,19 @@ title: Preface
 part: 0
 chapter: 0
 author: 
-  -
-     name: Brett Goldstein
-     job: Former Chief Data Officer 
-     employer: City of Chicago
-     photo_url: /images/authors/brett.png
-     twitter: bjgol   
-     about: "Former Chief Data and Information Officer for the City of Chicago. Currently a fellow in Urban Science at the University of Chicago Harris School of Public Policy."  
-
+  - name: Brett Goldstein
+    job: Former Chief Data Officer
+    employer: City of Chicago
+    photo_url: /images/authors/brett.png
+    twitter: bjgol
+    about: Former Chief Data and Information Officer for the City of Chicago. Currently a fellow in Urban Science at the University of Chicago Harris School of Public Policy.
 permalink: /preface/
+published: true
 ---
 
 The rise of open data in the public sector has sparked innovation, driven efficiency, and fueled economic development. And in the vein of high-profile federal initiatives like Data.gov and the White House’s Open Government Initiative, more and more governments at the local level are making their foray into the field with Chief Data Officers, open data policies, and open data catalogs.
+
+開放政府資料的風起雲湧，促成了創新、廉效以及經濟發展。在指標性的聯邦計畫的帶領之下，如 Data.gov 和白宮的開放政府計畫 (Open Government Initiative) 啟動之後，有越來越多地方政府透過資料長、開放資料政策以及資料目錄而進一步的發展。
 
 While still emerging, we are seeing evidence of the transformative potential of open data in shaping the future of our cities. It’s at the city level that government most directly impacts the lives of residents—providing clean parks, fighting crime, or issuing permits to open a new business. This is where there is the biggest opportunity to use open data to reimagine the relationship between citizens and government.
 
@@ -50,4 +51,3 @@ As we look forward, this is an exciting point in time. We have proven the value 
 ### Acknowledgments
 
 Thank you to my wife Sarah—as I continue to pile on projects, her tolerance is remarkable. Thank you to Lauren Dyson and the rest of Code for America team who helped bring this vision to fruition. Thanks to Mayor Rahm Emanuel, whose support laid the foundation that allowed open data in Chicago to become what it is today. And above all, thank you to the community of practitioners whose work is featured in this book. Your ingenuity, hard work, and commitment to innovation illuminate a path forward to a stronger public sphere powered by open data.
-
