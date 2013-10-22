@@ -34,11 +34,19 @@ And as momentum grows and norms are set, we reach a critical turning point in th
 
 The idea for this book originated while I was in my role as Chief Information Officer for the City of Chicago. I was often flooded with requests of how to replicate the Chicago “success story” with open data. Some essays had been written to talk about implementations using specific vendor platforms. This was valuable, but I felt it required a broader approach. The more I thought about it, the more I came to believe that the moment was right for a “guidebook” of sorts that documented the successes and lessons learned of open civic data so far.
 
+這本書源自於我在芝加哥市任職為資訊長的期間。我在過去一直被問到如何複製芝加哥市的成功經驗。有些媒體提到了我們所採取的特定軟體平台，這件事很重要沒錯，但是當我更深入的思考，我更相信目前這個時間點亟需一本好的「導覽手冊」，算是記錄目前為止關於開放政府資料的成功和所學習到的課題。
+
 I had become acquainted with Jennifer Pahlka, founder of Code for America, through the City of Chicago’s engagement as a Code for America Fellowship city in 2012. We had built a trusting relationship through our discussions related to Code for America’s work in Chicago, and continued to get to know each other at the ongoing stream of open government and civic innovation conferences, meetings, and events that we both frequented. As I pondered how to push forward this idea of marking a milestone in civic open data, Jen was an obvious ally.
+
+在2012年當芝加哥獲選 Code for America Fellowship 城市的同時，我認識了 Code for America 的創辦人 Jennifer Pahlka。我們和 Code for America 在思考芝加哥市要如何發展的過程，藉由各種開放政府、市民創新大會、一般會議，建立了相當的互信關係。當我在想怎麼把開放政府資料往前推進一步的同時，Jen 很顯然是好的聯盟。
 
 I reached out to Jen with a big idea: let’s write a book on open data. For two busy professionals, this seemed like a herculean task, but a plan came together that leveraged the resources of Code For America along with the insights of key players in the data space. Jen was enthusiastic and pulled together a team from Code for America to support the project. Within a few weeks, we had an initial list of contributors signed on. Within a few months we had chapter drafts in hand and a working outline of the book. A good idea coupled with agile execution—in many ways, the way this book was created embodies principles of the open data movement in and of itself.
 
+我給了 Jen 一個重要的點子：讓我們來寫一本關於開放資料的書。這件事對於兩個日務繁忙到不行的人來說，簡直是不可能的任務，但在 Code for America 資源的挹注之下，幾位關鍵者的加入，讓這本書慢慢的成形。Jen 當時很興奮，並且很快的從 Code for America 拉出一組人馬來協助這個計畫。在幾週之內，我們就有了一份協同作者的清單。在幾個越之後，我們就有了各個章節的草稿，也準備進入編輯的流程。當好的點子遇到敏捷的執行能力時 - 在很多方面來說，本書的付梓都展現了開放資料本身的精神。
+
 ### What Does This Book Seek to Do?
+
+### 這本書希望達成什麼？
 
 *Beyond Transparency* is a resource for (and by) practitioners inside and outside government—from the municipal chief information officer to the community organizer to the civic-minded entrepreneur. We aim for this book to accomplish a few specific things.
 
@@ -61,6 +69,8 @@ And we want lend a voice to many aspects of the open data community. In this boo
 As the title of this book suggests, the community is realizing the need to look beyond the rationale of transparency and instead align open data efforts with policy objectives, applying it to solve problems that really matter and make better decisions about how to allocate scarce resources. We also hear again and again the need for citizen-centered design that borrows principles from the User Experience field to move from data that is open to data that is truly usable and accessible by the public. Many practitioners cite the need for open data standards—across various types of civic data—to increase interoperability and make impact scalable. These are just some of the ideas and lessons that emerge from the stories gathered here.
 
 As we look forward, this is an exciting point in time. We have proven the value of open data. We have shown it can be done in short order, in cities of all sizes, from Chicago to Asheville, North Carolina. And now it is up to all of us to carry on the work that has been started.
+
+當我們更往前看時，會發現這是一個令人驚喜的時間點。我們已經證明開放資料的價值。我們已經展現了這可以在各種規模的城市，從芝加哥到北卡的 Ashville，在短時間內達成目標。是否繼續前行，取決於我們所有人的決定。
 
 ### Acknowledgments
 
