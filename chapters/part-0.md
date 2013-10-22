@@ -20,9 +20,15 @@ The rise of open data in the public sector has sparked innovation, driven effici
 
 While still emerging, we are seeing evidence of the transformative potential of open data in shaping the future of our cities. It’s at the city level that government most directly impacts the lives of residents—providing clean parks, fighting crime, or issuing permits to open a new business. This is where there is the biggest opportunity to use open data to reimagine the relationship between citizens and government.
 
+雖然仍是未定之天，我們還是衷心希望，能找到支撐開放資料從根本改變城市發展的重要證據。舉凡公園環境維護、打擊犯罪，或是取得營業登記許可，地方政府的運作和我們的生活息息相關。這部份其實是開放資料重新定義市民和政府關係的最佳契機。
+
 And as momentum grows and norms are set, we reach a critical turning point in the trajectory of the movement. As a community, we need to be reflective, mindful, and adaptive. We must take stock of what’s worked so far and what we still need to learn in order to ensure we are driving towards meaningful, sustainable outcomes.
 
+隨著越來越多的動能匯集，我們到達了發展的轉捩點。身為社群的一份子，我們必須更為適切反應和深思。我們必須好好的記住什麼已經成功運作，以及還有什麼是我們必須多加學習，來驅動更有意義和永續的成果。
+
 *Beyond Transparency* is a cross-disciplinary survey of the open data landscape, in which practitioners share their own stories of what they’ve accomplished with open data. It seeks to move beyond the rhetoric of transparency for transparency’s sake and towards action and problem solving. Through these stories, we examine what is needed to build an ecosystem in which open data can become the raw materials to drive more effective decision-making and efficient service delivery, spur economic activity, and empower citizens to take an active role in improving their own communities.
+
+*Beyond Transparency* 一書是一本針對來自各界的開放資料實務工作者之全面性普查成果，撰述之目的在於超越僅僅是為了透明而透明的傳統訴求，以行動和解決問題導向為本書基調。從這些故事當中，我們可以了解如何建立良好的開放資料生態系統，讓更為有效的決策，能夠透過原始資料來支持，提供更為良好的服務，促進經濟活動，並且賦權市民，讓市民可以在他們的社區（社群）扮演更為積極的角色。
 
 ### How This Book Came to Be
 
@@ -36,11 +42,19 @@ I reached out to Jen with a big idea: let’s write a book on open data. For two
 
 *Beyond Transparency* is a resource for (and by) practitioners inside and outside government—from the municipal chief information officer to the community organizer to the civic-minded entrepreneur. We aim for this book to accomplish a few specific things.
 
+*Beyond Transparency* 是來自於政府內部和外部實務工作的良好資源 - 從地方政府的資訊長到社群活躍份子，或是市民導向的新創企業家。我們希望本書能達成幾個具體的期許。
+
 For a local government looking to start an open data program, we hope the lessons outlined here will help them do exactly that.
+
+對於正要啟動開放資料計畫的地方政府，我們希望下列的故事，能協助你們也能做到。
 
 We want to spark a discussion of where open data will go next—and how we, as practitioners, can be smarter, more effective, and more broadly impactful.
 
+我們希望引起廣泛討論開放資料的下一步會是什麼 - 身為實務工作者，如何更聰明、更有效率，以及帶來更大的影響。
+
 We want to help community members (technologists and otherwise) outside of government better engage with the process of governance and improve our public institutions.
+
+我們希望協助在政府體系之外的社群成員（技術愛好者或是其他）能夠在政府治理的過程扮演更多的角色，以改善我們的公共機構。
 
 And we want lend a voice to many aspects of the open data community. In this book, you’ll see perspectives from many different participants that comprise an open data ecosystem: public servants, community organizers, NGOs, technologists, designers, researchers, journalists, and citizens. With *Beyond Transparency*, we’ve brought together a diverse cross-section of the field’s top innovators and leaders to share their stories of what has been achieved with open data so far, what they’ve learned along the way, and how we can apply those lessons to realize a more promising future for America’s cities. As they look back on what’s been accomplished so far—and what is yet to come—emergent themes resonate throughout their stories.
 
