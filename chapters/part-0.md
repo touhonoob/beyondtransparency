@@ -66,7 +66,11 @@ We want to help community members (technologists and otherwise) outside of gover
 
 And we want lend a voice to many aspects of the open data community. In this book, you’ll see perspectives from many different participants that comprise an open data ecosystem: public servants, community organizers, NGOs, technologists, designers, researchers, journalists, and citizens. With *Beyond Transparency*, we’ve brought together a diverse cross-section of the field’s top innovators and leaders to share their stories of what has been achieved with open data so far, what they’ve learned along the way, and how we can apply those lessons to realize a more promising future for America’s cities. As they look back on what’s been accomplished so far—and what is yet to come—emergent themes resonate throughout their stories.
 
+而且我們希望替很多的開放資料社群發聲。在這本書，你可以閱讀到許多來自開放資料生態圈不同的觀點：從政府雇員、社區營造者、非政府組織、技術愛好者、設計者、研究人員、新聞媒體從業和市民等。藉由 *Beyond Transparency* 我們帶出豐富跨界的的創新者和領導者，分享他們的故事，講述透過開放資料而做到了什麼。在這一路上學到了什麼教訓，而我們又能從他們的身上反思如何為美國建立更好的未來。當他們回顧過去時 - 同時也在想著還有什麼沒有做到，這些都確實的響應了本書的各節故事。
+
 As the title of this book suggests, the community is realizing the need to look beyond the rationale of transparency and instead align open data efforts with policy objectives, applying it to solve problems that really matter and make better decisions about how to allocate scarce resources. We also hear again and again the need for citizen-centered design that borrows principles from the User Experience field to move from data that is open to data that is truly usable and accessible by the public. Many practitioners cite the need for open data standards—across various types of civic data—to increase interoperability and make impact scalable. These are just some of the ideas and lessons that emerge from the stories gathered here.
+
+如同本書的書名，社群已經開始理解到必須跨過為了透明而透明的階段，進而發展政策的目標，解決至關重要的問題，做出更好的決策，以及如何優化資源的分配等。我們也不時聽到開放資料應該導入市民導向設計原則的呼籲，讓資料不只是開放而已，還要有用，並且便於取得。這些原則來自於使用者經驗的設計領域。很多實務工作者表示開放資料的標準相當重要，目的是增加資料之間的通透性，並且讓所創造的效益能夠放大。以上都只是本書內的部分例子。
 
 As we look forward, this is an exciting point in time. We have proven the value of open data. We have shown it can be done in short order, in cities of all sizes, from Chicago to Asheville, North Carolina. And now it is up to all of us to carry on the work that has been started.
 
