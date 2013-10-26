@@ -23,7 +23,7 @@ We begin with Chapter 6 by Brightscope co-founders Ryan and Mike Alfred. Their s
 
 In Chapter 7, we hear from another civic startup, SmartProcure, which has developed a model for transforming FOIA into a government improvement platform. Founder Jeffrey Rubenstein discusses how by aggregating, standardizing, and digitizing government purchasing data across jurisdictions, open data can actually become a tool to increase collaboration between government agencies and help them make more informed decisions.
 
-在第七節，我們聽到另外一個公民新創公司 SmartProcure 的故事，他們開發了一種模式，能將資訊自由法 (FOIA) 轉換為促成政府效率提昇的平台。創辦人 Jeffrey Rubenstein 談論他們在不同政府治理的範圍之間，如何彙整、標準化、數位化政府的採購資料。對於不同的政府機構如何合作的部份，開放資料事實上可以成為一個很好的工具，讓決策更能根植於事實。
+在第七章，我們聽到另外一個公民新創公司 SmartProcure 的故事，他們開發了一種模式，能將資訊自由法 (FOIA) 轉換為促成政府效率提昇的平台。創辦人 Jeffrey Rubenstein 談論他們在不同政府治理的範圍之間，如何彙整、標準化、數位化政府的採購資料。對於不同的政府機構如何合作的部份，開放資料事實上可以成為一個很好的工具，讓決策更能根植於事實。
 
 In Chapter 8, we hear from Chicago-based reporter Elliott Ramos about a journalist’s relationship with open public data. He describes how the surge of government data made available under Chicago’s new open data initiative changed the way he reported on local stories and allowed for new kinds of storytelling to emerge.
 
