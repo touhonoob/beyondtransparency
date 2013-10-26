@@ -27,7 +27,7 @@ In Chapter 7, we hear from another civic startup, SmartProcure, which has develo
 
 In Chapter 8, we hear from Chicago-based reporter Elliott Ramos about a journalist’s relationship with open public data. He describes how the surge of government data made available under Chicago’s new open data initiative changed the way he reported on local stories and allowed for new kinds of storytelling to emerge.
 
-在第八章，我們聽到來自芝加哥市記者 Elliott Ramos 談論他和開放公眾資料的關係。他特別提到在芝加哥市的開放資料計畫之後所能獲得的大量資料，改變了他對於地方新聞的報導方式，也成就了新型態說故事的方法。
+在第八章，我們聽到來自芝加哥市記者 Elliott Ramos 談論他和開放公共資料的關係。他特別提到在芝加哥市的開放資料計畫之後所能獲得的大量資料，改變了他對於地方新聞的報導方式，也成就了新型態說故事的方法。
 
 Steve Spiker is the Director of Research for the Urban Strategies Council, an organization that has been supporting innovation in Oakland for almost twenty-six years and often uses government-held data for projects. In Chapter 9, he writes about how the city of Oakland’s initial foray in open data has impacted the work of local community organizers and researchers—while also cautioning against overly optimistic views of an “open government” based on the release of limited data.
 
