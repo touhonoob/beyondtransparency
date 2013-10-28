@@ -17,6 +17,8 @@ permalink: "/part-1/ashvilles-open-data-journey-pragmatics-policy-and-participat
 
 Much of the open data conversation centers on policy, politics, or solving community problems. These are great—and needed—beginning and end points, but there is an important middle point that raises two questions: How do we produce open data? And how can we get open data to be a part of the government process?
 
+大部份關於開放資料的對話，都關注在政策，政治，或解決社群問題。從起點和終點來看，這些面向都很好,也需要被討論，但還有一個同時帶出兩個問題的重要中介點，也需要同時注意：我們如何產生開放資料？我們如何把開放資料作為政府決策的一環？
+
 Today, local, state, and federal governments generally have to go an extra mile to convert “open records” into what we would recognize as “open data.” This essentially means open records that are presented in a convenient, automated, and self-service format.
 
 That extra mile is a tough nut. For all of the benefits of open data, this innovation also creates problems along the journey that make it easy for detractors to undermine open data efforts—think the benefits of social media versus Facebook addiction.
