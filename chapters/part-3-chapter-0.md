@@ -15,7 +15,7 @@ published: true
 
 This section explores some of the larger scale implications of opening government data. Industry experts outline emergent impacts on our public sphere, democratic processes, and economy—while also articulating the enabling factors that are needed to bring about potential transformative benefits.
 
-本章節著重於探索開放政府資料影響更為廣泛的數個面向。來自產業的專家們，除了詳述促成改變所帶來之效益的重要元素之外，也概括說明開放資料在公共空間、民主進程和經濟發展所帶來的衝擊。
+本段落著重於探索開放政府資料影響更為廣泛的數個面向。來自產業的專家們，除了詳述促成改變所帶來之效益的重要元素之外，也概括說明開放資料在公共空間、民主進程和經濟發展所帶來的衝擊。
 
 In Chapter 11, Eric Gordon and Jessica Baldwin-Philippi argue that the open data movement suggests more than just access to government data—it is the reframing of data from a government resource to a publicly owned asset to which every citizen has right. As a result of this reframing, many new tools have been developed that encourage citizens to place their personal data into service of collaboration and active citizenship. This chapter describes how this culture of open data has facilitated good civic habits, which point to active learning and sustainable civic engagement.
 
