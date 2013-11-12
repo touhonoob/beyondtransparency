@@ -18,7 +18,7 @@ permalink: /part-5/open-data-and-algorithmic-regulation/
 
 Regulation is the bugaboo of today’s politics. We have too much of it in most areas, we have too little of it in others, but mostly, we just have the wrong kind, a mountain of paper rules, inefficient processes, and little ability to adjust the rules or the processes when we discover the inevitable unintended results.
 
-法規條款是今日政治運作所底下所產生的一個嚇人的的東西。 我們有太多的法規條款出現在各個領域裡，但是在需要的領域裡卻又少之又少，並且大部分的時候，他們是以錯誤的形式出現，像座小山般的文件，沒有效率的流程。當我們發現我們無可避免地要面對這些不想要地結果時，卻沒有能力調整這些規則或程序。
+法規條款是今日政治運作所底下所產生的一個嚇人的的東西。 我們有太多的法規條款出現在各個領域裡，但是在需要的領域裡卻又少之又少，並且大部分的時候，他們是以錯誤的形式出現像成堆像小山般的文件或沒有效率的流程。當我們發現我們無可避免地要面對這些不想要地結果時，卻沒有能力調整這些規則或程序。
 
 Consider, for a moment, regulation in a broader context. Your car’s electronics regulate the fuel-air mix in the engine to find an optimal balance of fuel efficiency and minimal emissions. An airplane’s autopilot regulates the countless factors required to keep that plane aloft and heading in the right direction. Credit card companies monitor and regulate charges to detect fraud and keep you under your credit limit. Doctors regulate the dosage of the medicine they give us, sometimes loosely, sometimes with exquisite care, as with the chemotherapy required to kill cancer cells while keeping normal cells alive, or with the anesthesia that keeps us unconscious during surgery while keeping vital processes going. ISPs and corporate mail systems regulate the mail that reaches us, filtering out spam and malware to the best of their ability. Search engines regulate the results and advertisements they serve up to us, doing their best to give us more of what we want to see.
 
@@ -269,11 +269,11 @@ There are also huge privacy risks involved in the collection of the data needed 
 
 Given the amount of data being collected by the private sector, it is clear that our current notions of privacy are changing. What we need is a strenuous discussion of the tradeoffs between data collection and the benefits we receive from its use.
 
-考慮到目前私人單位所收集的資料量，很明顯的我們可以發覺我們對於隱私的內涵正在改變。我們需要的事細緻周延的討論在資料收集與我們從中得到的好處之間兩相權衡後的得失。
+考慮到目前私人單位所收集的資料量，我們可以很明顯的發覺我們對於隱私權的看法正在改變。我們需要的是細緻周延的討論關於資料收集與我們從中得到的好處之間兩相權衡後的得失。
 
 This is no different in a government context.
 
-這其實和政府的本質沒有什麼不一樣。
+這和政府所面臨的(隱私權)問題脈絡一樣
 
 ### In Conclusion
 
