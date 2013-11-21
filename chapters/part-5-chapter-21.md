@@ -34,6 +34,7 @@ The concept of “government as a platform”—an idea best, and most famously,
 Tim O'Reilly (2010) - O'Reilly Media創始人，同時為免費軟體與開源運動的推動者 - 提出"政府即平台"的概念。iPhone經常被拿來當一個好平台的典範。2008年由蘋果執行長Steve Jobs決定要讓各自獨立的開發者所開放的App都能在iPhone平台上運作，造成了現在iPhone無所不在的成功。一如2012年New York Times中David Streitfeld的文章中提到：
 
 > The App Store opened in July 2008 with 500 apps. In an interview, Mr. Jobs laid bare the company’s goal: “Sell more iPhones.” Thanks to the multitude of apps, the goal came to pass. More iPhones... were sold in the next three months than in the entire previous year, and that was just the beginning of the ascent. (Streitfeld, 2012)
+
 > App Store在2008年7月剛開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："再賣更多iPhone！"。感謝這些App，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
 
 The idea of turning a phone into an application platform has since been copied by other hardware and software companies, and it has informed the idea of turning government itself into a platform. Providing public access to government data in machine-readable formats (i.e., open data) is the foundation of the efforts being taken by governments around the world. They are essentially copying Apple’s approach to stimulate innovative new apps and ideas that can run on their government “platform.”
@@ -46,6 +47,7 @@ This kind of change in government can be long, complex, and fraught with risks. 
 在政府內這類型的改變可能得花很長的時間、很複雜、而且很具風險。還得重新思考傳統觀念中政府是這些資料唯一的「全面提供者」的角色定位。一份2012年政府科技中心的報告指出，開放資料的計畫會帶來以下這些改變：
 
 > Open data initiatives disrupt government’s traditional role as holder or owner of the data. In thinking about open data governance, we need to rethink government’s role in relation to the entire set of new stakeholders. One possibility is to characterize government, as well as all other stakeholders, as stewards [of data]. (Helbig, Cresswell, Burke, & Luna-Reyes, 2012, p. 13)
+
 > 開放資料的倡行，瓦解了傳統上政府做為資料管理員和資料擁有者的角色。思考開放資料的政府服務時，我們需要重新定位政府與整個生態鏈的角色。一種可能是把政府和其他生態鏈上的關係人都一樣視為是資料的管理員這個角色。
 
 The clearest example of how open government data can be used to encourage the development of useful new applications comes from the world of public transit. There are numerous examples of applications built using transit data released by governments with the GTFS specification, which is an open data format initially developed by Google in cooperation with Portland, Oregon’s public transit agency. While initially designed to allow easy integration of transit data into the Google platform, the GTFS data specification has spawned a cottage industry of new transit apps. Websites like citygoround.org list hundreds of transit apps, many built using GTFS data.
@@ -168,6 +170,7 @@ In a way, it’s not dissimilar from the experience many people have when going 
 在某種程度上，這就像一般人去找修車技師的經驗一樣。如果你對車子怎麼運作的原理完全不懂，你怎麼知道你是不是待宰的肥羊？這讓我想起"歡樂單身派對"(Seinfeld,美國知名情境喜劇)有一集，George Costanza把一般修車費用做了一段歸納：
 
 > Well of course they’re trying to screw you! What do you think? That’s what they do. They can make up anything; nobody knows! ‘Why, well you need a new Johnson rod in here.’ Oh, a Johnson rod. Yeah, well better put one of those on!
+
 > 這是一定要的，他們就是要黑你一筆！不是嗎？他們就是靠這吃飯的。什麼理由他們都可以編出來，反正沒人懂！啥？你這個一定要先拆座墊，公道價八萬一有沒有聽過？
 
 If the people who work for government don’t have a clear enough sense of how things get made, they are ill-equipped to evaluate RFP responses from individuals or companies that want to do work on behalf of the government. This is especially important for technology procurement, where new software development paradigms can evolve rapidly.
