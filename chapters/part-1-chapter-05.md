@@ -21,10 +21,11 @@ Much of the open data conversation centers on policy, politics, or solving commu
 
 Today, local, state, and federal governments generally have to go an extra mile to convert “open records” into what we would recognize as “open data.” This essentially means open records that are presented in a convenient, automated, and self-service format.
 
-現在，不論地方、州和聯邦政府，通常需要多付點心力把「開放紀錄（open records）」轉為「開放資料」。這代表得把開放記錄得以便捷、自動化的形式呈現。
+現在，不論地方、州和聯邦政府，通常需要多付點心力把「開放紀錄（open records）」轉為「開放資料」。這代表得把開放記錄以方便、自動化的形式呈現。
 
 That extra mile is a tough nut. For all of the benefits of open data, this innovation also creates problems along the journey that make it easy for detractors to undermine open data efforts—think the benefits of social media versus Facebook addiction.
 
+這樣的轉換過程其實挺棘手。從開放資料的效益來看，事實上，轉換過程同時帶來問題，有可能轉移人們的焦點，想想社群媒體的效益，還有臉書上癮之間的關係。
 
 For example, legislators passing open records laws might not have thoroughly contemplated that these records would be generally available—instantly—in near-real-time to anyone who requests that data. Is it OK to distribute a list of everyone who holds a pistol permit? Open records laws in North Carolina, where I live, seemed to imply “yes,” but a local journalist got into fairly hot water when he planned to post the list and demanded that a sheriff provide these records in accordance with the law (Henderson and Steele, 2013).
 
