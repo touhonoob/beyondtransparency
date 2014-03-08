@@ -15,11 +15,10 @@ author:
 featured: true
 permalink: /part-4/beyond-open-data-the-data-driven-city/
 ---
-Beyond Open Data: The Data-Driven City
-超越開放資料：資料驅動的城市
-By Michael Flowers
-作者：麥克．富勞爾
-譯者：Sandra Chiu, 2014/3/8
+#### Beyond Open Data: The Data-Driven City
+#### 超越開放資料：資料驅動的城市
+- 作者：麥克．富勞爾 (Michael Flowers)
+- 譯者：Sandra Chiu, 2014/3/8
 
 
 資料驅動的城市，意謂著能更有效地傳遞城市的核心服務，資料驅動主要不是技術上的挑戰，而是組織方向與領導上的挑戰。 
