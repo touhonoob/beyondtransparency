@@ -21,7 +21,23 @@ We’re not huge like Chicago, New York, or San Francisco—megacities with larg
 
 Our journey shows why open data matters to a city with big troubles and how something as geeky as public records access supports a positive transformation in our city—for everyone, not just for us geeks.
 
+位於灣區的中心地帶，有個都市正在許多苦難中掙扎，就如同美國其他古老大城市，尤其是位於鐵鏽地帶^1 的城市一樣：撤資、白人遷移^2、學校在生存邊緣、高犯罪率、大量喪失抵押贖回權、政治與政府腐敗以及許多醜聞。雖然有這些殘酷的現實，奧克蘭2012年時還是被紐約時報題為世界上最棒的五個地區之一。我們既興奮又驚訝。奧克蘭人對我們的文化遺產、多樣性、偉大音樂家傳承、美味食物以及令人讚嘆的藝術，還有我們這美麗的灣區城市感到驕傲。
+
+我們不像芝加哥、紐約或舊金山那麼大- 特大城市人口數龐大，也有相對應的龐大市政府職員。在開放政府運動中更不是主要領導者。我們在開放資料這條令人興奮的路上跌跌撞撞。這條路有許多途徑，有些能讓我們的城市通往真正的開放政府，而有些只有少許改進以及「開放清洗」（指透過發布一些資料來聲稱政府已經達到開放與透明的目的。）
+
+而這旅程顯示，為何開放資料對大有問題的城市很重要，以及一些像是國家檔案存取這樣技術性的東西，是如何支撐起我們城市的正向轉變- 對每一個人，而不只是技術宅。
+
 ### The Start of Open: The Conviction Phase
+
+### 開始開放：取信期
+
+改變我以及所屬組織對「開放」的事件，是個突如其來的大轉變。自2006年移民美國後，我很榮幸能在都市策略協會工作。這個協會是個社會正義非營利組織，促進城市族群以及衝擊低收入族群（多半為有色族群）相關政策上的平等。
+
+領我到這個優秀組織的路很曲折。起先，我在私人企業擔任土地調查與規劃師，然後在倫敦的資訊顧問公司混了一陣，再到公衛領域研究空間流行病學。在私人企業時，我需要和政府界接，取得並提交各種資料，從郊區規劃到大型工程計畫資料以及衛星影像等。從那之後，我花了數年在西澳衛生署，幫忙建一個全州空間資料庫來協助我們員工並讓社會大眾能接觸到政府資料。從裡面我體驗到帝國大廈和資料佔有慾，從那時起便抱怨至今。在這份工作中，我學到創造、管理並負責政府資料到底是怎麼一回事。在那裡，我體會到控制和限制存取「我的資料」的慾望，以及認為這種對資料的限制比讓其他人可以存取來的更有用。這個工作正好彰顯了安全與管理機密資料以及支持簡易存取兩者之間的極大矛盾。
+
+當我要離開這個角色時，現實情況讓我受到極大衝擊，即使和資料打交道這麼多年，單位其他人並不知道有這麼一個小組存在，而且可以提供協助。後來，我才了解到這是大多數政府機構的共同症狀：溝通實在爛透了。政府不但在對外開放與無障礙上掙扎，內部也做的一樣糟糕。
+
+都市策略協會長期以來一直支持地方政府、社區參與以及非營利社群進行資料導向決策。為此，我們一直維持自己的資料倉庫來進行非常行動導向的社會研究與空間分析。我們得協調取得政府資料（代價通常相當昂貴）、簽訂不公開協議、到處爬資料，然後有時很幸運的能在網路上找到。甚至，我們還有個正式目標要讓資料民主化。如同大多數在國家社區指標聯盟 （National Neighborhood Indicator Partnership, NNIP）的夥伴，我們在網路上建立地圖平台讓政策決策者、組織者以及社會大眾能藉此接觸到複雜資料簡化後的系統，來支持更廣泛的資料運用。就像其他組織一樣，我們預想大家常常要我們製作各種特製的地圖，所以最好提供工具讓他們自己動手。人們常常來要原始資料，有時候我們有權發布資料，而有時我們能用工作時間來發布或傳送這些資料給詢問者，但更多時候我們無法提供，就是因為上述的兩個原因。
 
 The event that changed my thinking and changed my organization toward “open by default” was as unexpected as it was transformative. I’ve had the privilege to work at the Urban Strategies Council since immigrating to the USA in 2006. The Council is a social justice nonprofit that strives to support equity in urban communities and in policies that impact low-income communities, mostly communities of color.
 
@@ -43,6 +59,8 @@ In our push to realize open data across all our cities, we must never forget thi
 
 ### Unreasonable Expectations
 
+### 不合理的期望
+
 Oakland’s city government had long been seen as a blocker of access to information. Information is routinely not accessible unless you are known and liked by the person on the other end. As we launched our own data system, I realized that Oakland was not going to just open its data on a whim. It needed a big push: an open data policy.
 
 I had never written an adopted policy in local government, so it was rather intimidating to begin such a task. Thanks to the work in New York and San Francisco, there were great policy and directive examples I could pull from the Code for America Commons site, which I reworked to suit Oakland (and also Alameda County). I then summarized the priority datasets from most other “open data” cities and drafted some guidelines for how a city could consider adopting and implementing an open data approach. I was now armed with reusable policies, good examples of how powerful opening data had been elsewhere, some clear steps and directions, and what I thought was a silver bullet use case. Where to now? I have never lobbied before, but if felt like that was the next step.
@@ -60,6 +78,8 @@ This presents an opportunity for open data. If the city consistently opens their
 After my first experiences doing something that resembled lobbying, one city councilor, Libby Schaaf, became the internal champion to make this happen. Unlike other cities, we did not get strong executive support to immediately implement this law. Instead, we had a resolution approved to “investigate open data platforms,” resulting in an approved plan and a contract with Socrata to provide such a platform.
 
 ### Are We Opening Government?
+
+### 我們是開放政府嗎？
 
 This left Oakland in a strange position. We have both a community-driven open data platform and a city-supported platform, but we are one of the only cities to have a web portal and no legislation to support it (I recently learned that New Orleans is in the same position). To make this even stranger, Alameda County has done the exact same thing. They have the portal, but no policy to support or sustain it.
 
@@ -81,6 +101,8 @@ There is a lesson here for many other cities and for Oakland. Publishing data is
 
 ### The Panacea of Data-Driven Cities
 
+### 資料城市的靈丹妙藥
+
 It’s hard to imagine a new policy, new social service, or new investment decision being made in any company or government without the strategic use of data to inform the thinking and planning. Still, too frequently, cities do not have staff with the skills or the mandate to thoughtfully analyze public and confidential data. Those of us in the private sector would be often horrified to see the type of information provided to city councilors to aid their decision-making. Since ninety percent of the world’s data has been created in the last two years, we have no excuse for not looking at reliable data to inform our planning and policy-making. This is the future we dreamed of, where data on almost any issue is readily available and easily analyzed. Only, we aren’t there yet.
 
 Opening data in Oakland and Alameda County has raised a lot of questions about the quality and reliability of this data and with due cause. This is a valid fear of bureaucrats, yet it is a fear that has no rightful place in our governments. If our raw data is bad, our decisions can only be misinformed. Opening data, therefore, is in some respects the beginning of a data quality control effort within our local governments. Sunshine reveals many flaws, and open data reveals many flaws in our data collection, management, and use in city government. These realizations may make some people feel bad for a time, but the staffer who has been lamenting the lack of time and funding to properly manage the data in their department now has allies across their community who are also concerned about this lack of attention toward data management.
@@ -90,6 +112,8 @@ This has traditionally only been possible with very small, tight-knit groups of 
 The problems that become visible around government data can often have ugly consequences, but they must be seen as growing pains as we move from immature uses of data in government to a place where data-driven decision-making is the norm.
 
 ### Leveraging the Long Tail of Government
+
+### 政府長
 
 Many critics in Oakland have suggested that open data doesn’t explain anything, doesn’t make anything clear, and doesn’t provide answers. Some also suggest that the community focus on open data and open government is overly focused on technological solutionism. The first group is right, albeit barely, while the second group has not fully comprehended this movement and its intent. Let’s take a look at a current practice in government and then consider what open data means for the future.
 
@@ -113,6 +137,8 @@ As I suggested earlier, publishing the raw data itself does not create an inform
 
 ### What Has Data Done for Me Lately?
 
+### 最近資料為我做了什麼？
+
 As the furious rush to build “innovative” and “game changing“ civic apps and new tools starts to plateau, I believe we are seeing a slow but steady shift into finding ways that this new treasure trove of open data can actually do something useful. By useful, I mean solve problems, uncover unknown problems, and help illuminate new solutions to old problems. I love geeky apps that make my already comfortable life even better, more connected, and more informed, but this is indeed just a way that new technology and data are empowering the empowered. I’ve seen data do so much more, and we are starting to see this use trend growing nationally and globally.
 
 Groups such as DataKind, GAFFTA, and Geeks Without Borders, and local research/action tanks, like the Urban Strategies Council, have been doing this well—in our case, for decades. Traditionally, it looks like this: define your problem, identify data to inform the problem/solution, obtain data, analyze it, and communicate results and solutions. Open data takes the pain out of this old equation. It also takes the exclusivity out of the obtain data element and provides for unlimited problem solvers. I believe there will be a future need for sophisticated data shops like ours that can gain access to raw, record-level sensitive data for research purposes, but open data sounds the death knell for the gateway or custodian model of data warehousing. The nonprofit and academic sector has to also realize that we have been as guilty of data hoarding as anyone and that we can enable more by following the lead of the public sector and opening our data wherever we can.
@@ -127,6 +153,8 @@ In the present scenario, funders receive impact reports from grantees stating th
 
 ### Into the Danger Zone
 
+### 進入危險區域
+
 One caveat that those of us in the data trade will have to work carefully around is competing standards of open data. Many organizations once required the use of non-disclosure agreements and memorandums of understanding, but these no longer have any meaning when we can now find the data we need online. There is, however, a tricky middle ground appearing. Agencies that once would furnish us with detailed, sensitive data for the purposes of research are both publishing some data openly, while at the same time developing better processes for data requests using the Public Records Act (PRA) or FOIA. This results in some blurring of the lines between open data and confidential data and will require very carefully communicated permissions.
 
 Our local police department recently provided us with a rich homicide investigation dataset, which is something that we have accessed over the years. This time, however, it required a PRA. Our assumption that all records provided via PRA are public and, thus, we can republish this data, turned out to be partly wrong.
@@ -135,11 +163,15 @@ The department had only given us the data once more because of our trusted relat
 
 ### Community Development
 
+### 社區營造
+
 There is one important sector of American cities that has barely been affected by open data: community development. This field consists of local government departments (often small ones) and local nonprofits, often Community Development Corporations (CDCs). Both of these types of organizations are hampered by a lack of access to granular data relating to their communities of interest, commonly property data, market trends, development, foreclosures, and data from other sectors. Presently, much of this data is locked in government silos or sold at a premium to the public and other government agencies, despite being public data at its core. The barriers of cost, unclear availability, and confusion over the quality, currency, and the relevance of most property data mean that too many CDC type operations are running data-blind. We’ve interviewed many local organizations in this field and found that almost every one faces these barriers in a way that affects their effectiveness and impact.
 
 This sector must be data-driven, as the volume of investment it draws nationally is substantial. Decisions of where, when, and how to invest would rarely be made without solid data in the private sector, yet this is all too common in the CDC world. Opening key property and economic development data will add a level of sophistication and rigor to the CDC world that is important. However, it will not automatically create skills or cheap tools to analyze and utilize this data. As funders and government become more focused on evidence-based and data-driven efforts, both sources of investment must accept their role in supporting or providing that kind of capacity.
 
 ### Who Owns Your Data?
+
+### 誰擁有你的資料？
 
 Opening property data will bring a fight over public ownership that opening property data. Presently, in Alameda County, any nonprofit or any city/county agency that wishes to consider the impact of foreclosures on their work or to evaluate the impact or opportunities that foreclosures have created, must purchase this data from private sources. This means every agency, independently. The opening of some data should prompt us to ask about the realities behind other data not being opened. In this case, the source of this data is a county agency: the Clerk Recorder. The Clerk Recorder has a simple mandate that has not changed significantly for some time. When a foreclosure is filed, it comes in paper form. The date, bank or foreclosing agent, and the homeowner are electronically recorded, while other critical details, like amount, address, city, etc., are left on a scanned image. These images are made available to title companies, who provide the once-valuable service of creating digital records, which are then sold back to any government or public agency who needs them. In 2013, this cannot be accepted as good government.
 
@@ -147,11 +179,15 @@ This is not a flaw with the Clerk Recorder, who seems to be a genuinely helpful 
 
 ### Are You Open for Business?
 
+### 你們開放商業使用嗎？ 
+
 On the back of the benefits that community development can reap are the even more substantial rewards gained through increased economic development. This is simple in practice, but we’ve apparently been sleeping at the wheel in cities like Oakland. Our city desperately wants investment and retail, but we’ve failed to make the path smooth and to help those considering our city make informed decisions. For large corporations, access to local data is, perhaps, less of a barrier to investment because of their access to professional market analysts, brokers, and the like, but for a small to medium enterprise, these services are mostly out of reach.
 
 It should be a no brainer for Oakland to both open its data and encourage the development of tools on top of this data. As of January 2013, in our city, a potential new business owner or investor could not find data or tools online to allow the owner to review business permits, building and development permits, vacant properties, blight, or regional crime comparisons. Compare this with our neighbor city of San Francisco where all these things are simply available. They’re available because they are needed and help make the path smoother for new business. When times are tight in local government, like during the past several years, we must get smarter. Releasing all this data is opportunistic and critical. If our city is unable to build the tools to help attract business because of funding or outdated IT procurement approaches, then the data will suffice at a marginal cost. Others can build tools more cheaply and faster. The old adage that says we can’t do this because it’s expensive is hard to use as a straw man anymore. This change will take leadership from our city to identify an area of internal weakness and engage with the broader community in an effort to develop the tools and analyses that this data makes possible. This would be an incredible demonstration of recognizing the potential in the long tail of government and in how open government can collectively do so much more together.
 
 ### Conclusion
+
+### 結語
 
 Every city takes a different path to open its data and progress toward open government. Oakland is off to a slow but exciting start with its data platform and with increased engagement through this data. Yet, it remains to be seen if our city will push through legislation to protect and sustain the worthy efforts of city staff at this point. Our lesson here is that engagement with elected officials must be sustained at a high level to ensure policy matches practice and also that developing strong initial resolutions is the key to avoid watered down plans and slow, uncertain paths forward.
 
@@ -163,15 +199,21 @@ I’ve worked across dozens of cities in the USA and elsewhere, and for decades,
 
 ### Author’s Note
 
+### 作者註記
+
 After writing, some positive progress has been made in Oakland. At the request of council member Libby Schaaf, we are beginning crowdsourcing of new legislation for an official open data policy in the city of Oakland. We’ve combined what we see as the strongest and most relevant elements of policies from Austin, Texas; Portland, Oregon; Raleigh, North Carolina; and Chicago. We’ve published the draft for public comment, and so far we have great feedback from other practitioners in cities with experience of their own process and locals interested in making this right for us. It’s an experiment. It should be fun. Next we hold a roundtable session to review and consider what this means for our city. And then we try to get this passed! Onward.
 
 —Steve Spiker
 
 ### About the Author
 
+### 關於作者
+
 Steve Spiker (Spike) is the Director of Research & Technology at the Urban Strategies Council, a social change nonprofit supporting innovation and collaboration based in Oakland for almost twenty-six years. He leads the Council’s research, spatial analysis, evaluation, and tech work. He is also the Executive Director and co-founder of OpenOakland, a civic innovation organization supporting open data and open government in the East Bay.
 
 ### References
+
+### 引用文獻
 
 Eaves, D. (2010). Open Government. Available from https://github.com/oreillymedia/open_government
 [New York Times (2012). The 45 Places to Go in 2012. The New York Times, January 6, 2012. Retrieved from http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0](http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0)
