@@ -99,9 +99,9 @@ Our initial excitement about the data was quickly replaced by frustration. Upon 
 
 我們一開始取得文件的興奮很快就被沮喪所取代，回到聖地牙哥後，我們利用這十五份報告開始分析，我們快速的做了個簡要計算：若要取得一年內六萬份完整的審計報告，平均每份報告50頁，而每頁15分的成本來計算，將花費大約45萬美元。最糟糕的是，根據勞工部工作人員用人工印出的十五份報告來看，顯然他們也沒有辦法提供散裝報告給我們。
 
-With little to lose, we put together a list of the sixty thousand plans for which we needed data and filed a formal FOIA request. Within a few weeks, we found ourselves on a call with the DOL FOIA staff. We were told in no uncertain terms that our FOIA request was one of the most onerous requests they had ever received. In hindsight, given their limitations at the time, this assessment seems fair. However, when data is the only thing standing in the way of building a business, it is not what you want to hear.
+除此之外還有程序上的障礙，勞工部規定，為避免洩露個人身份資訊（Personally Identifiable Information, PII），例如：社會安全號碼，部份檔案中包含了此類資料，所以他們必須重新編寫，雖然需要編寫的比例十分少，但勞工部仍訂出在提供民眾文件前需人工逐頁檢查的規定。
 
-除此之外還有程序上的障礙，勞工部規定，為避免洩露個人身份資訊（Personally Identifiable Information, PII），例如：社會安全號碼，部份檔案中包含了此類資料，所以他們必須重新編寫，雖然需要編寫的比例十分少，但勞工部仍訂出在提供民眾文件前需人工逐頁檢查的規定。 
+With little to lose, we put together a list of the sixty thousand plans for which we needed data and filed a formal FOIA request. Within a few weeks, we found ourselves on a call with the DOL FOIA staff. We were told in no uncertain terms that our FOIA request was one of the most onerous requests they had ever received. In hindsight, given their limitations at the time, this assessment seems fair. However, when data is the only thing standing in the way of building a business, it is not what you want to hear.
 
 我們列出了一份包含六萬家公司退休計劃相關資料的清單，並提出一份正式的申請。幾星期後，我們收到勞工部工作人員的電話，他們清楚地表示，我們所提出的要求是他們有始以來收到的最嚴酷的要求。以當時環境的限制條件看來，這樣的說法似乎是合理的，但當你只能靠這些資料來創業時，這絕不是你想聽到的。
 
