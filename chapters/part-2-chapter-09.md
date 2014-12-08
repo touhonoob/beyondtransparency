@@ -335,9 +335,8 @@ Steve Spiker（通稱Spike）是都市策略協會的研究與技術總監，該
 
 Steve Spiker (Spike) is the Director of Research & Technology at the Urban Strategies Council, a social change nonprofit supporting innovation and collaboration based in Oakland for almost twenty-six years. He leads the Council’s research, spatial analysis, evaluation, and tech work. He is also the Executive Director and co-founder of OpenOakland, a civic innovation organization supporting open data and open government in the East Bay.
 
-### References
-
 ### 引用文獻
+### References
 
 Eaves, D. (2010). Open Government. Available from https://github.com/oreillymedia/open_government
 [New York Times (2012). The 45 Places to Go in 2012. The New York Times, January 6, 2012. Retrieved from http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0](http://travel.nytimes.com/2012/01/08/travel/45-places-to-go-in-2012.html?pagewanted=all&_r=0)
